@@ -1,0 +1,5 @@
+dependecies:
+  idf:
+    version: ">=5.0"
+  expressif/esp-idf-cxx:
+    version: ">=1.0.0"
